@@ -1,6 +1,6 @@
-# 🌟 EazySchool - School Management System
+# EazySchool - School Management System
 
-## 🌐 Overview
+## Overview
 
 **EazySchool** is a Spring Boot-based web application for school administration, designed to:
 
@@ -10,16 +10,16 @@
 
 ---
 
-## 🔄 Key Features
+## Key Features
 
-- ✅ Role-based authentication and authorization 
-- 📡 RESTful API services with pagination and sorting 
-- 🎨 MVC architecture using Thymeleaf 
-- 🛠️ Logging, Spring profiles, and input validation 
+- Role-based authentication and authorization 
+- RESTful API services with pagination and sorting 
+- MVC architecture using Thymeleaf 
+- Logging, Spring profiles, and input validation 
 
 ---
 
-## 🤖 Tech Stack
+## Tech Stack
 
 - **Frontend**: Thymeleaf 
 - **Backend**: Spring Boot, Spring Security, Spring Data JPA 
